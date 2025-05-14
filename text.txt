@@ -1,0 +1,11 @@
+Autoplay + Scroll per video → seperti feed TikTok
+
+fitur profil
+
+Fitur Upload video
+
+Like / Comment
+
+Login menggunakan Firebase
+
+Tampilan UI seperti TikTok (floating action bar kanan, dll.)
