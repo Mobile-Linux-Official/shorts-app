@@ -1,7 +1,7 @@
 {
   "name": "tiktok",
   "version": "0.1.0",
-  "hamepage": "Mobile-Linux-Official",
+  "hamepage": "Mobile-Linux-Official.github.oi/shorts-app",
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
